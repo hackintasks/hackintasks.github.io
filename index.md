@@ -13,6 +13,7 @@
 - [ybbm](ybbm.md)
 
 # Pet Quests
+
 | Quest Name | Quantity | Owners |
 | The Indulgent Armadillo | 1 | dainty_moose |
 | The Magical Axolotl | 1 | Hed_M |
@@ -33,6 +34,7 @@
 | The Icy Arachnid | 1 | dainty_moose |
 
 # Unlockable Quests
+
 | Quest Name | Quantity | Owners |
 | Attack of the Mundane, Part 1: Dish Disaster! | 4 | Bravisha_Skietano, WolfenEmi, forestwood6, ybbm |
 | Attack of the Mundane, Part 2: The SnackLess Monster | 3 | Celeblessil, Umbra_Star, supervxn |
@@ -53,6 +55,7 @@
 | Vice, Part 3: Vice Awakens | 1 | d34dimm0rt4l |
 
 # Masterclasser Quests
+
 | Quest Name | Quantity | Owners |
 | Dilatory Distress, Part 1: Message in a Bottle | 6 | Bravisha_Skietano, Celeblessil, Hed_M, WolfenEmi, becoming_tolkien |
 | Dilatory Distress, Part 2: Creatures of the Crevasse | 1 | Hed_M |
@@ -65,15 +68,18 @@
 | Terror in the Taskwoods, Part 2: Finding the Flourishing Fairies | 1 | WolfenEmi |
 
 # Hatching Potion Quests
+
 | Quest Name | Quantity | Owners |
 | The Amber Alliance | 1 | WolfenEmi |
 | A Bright Fluorite Fright | 1 | WolfenEmi |
 | Turquoise Treasure Toil | 2 | WolfenEmi, supervxn |
 
 # World Quests
+
 | Quest Name | Quantity | Owners |
 
 # Hourglass Quests
+
 | Quest Name | Quantity | Owners |
 
 
