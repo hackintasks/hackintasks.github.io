@@ -1,4 +1,5 @@
 # Per User Quests
+
 - [becoming_tolkien](becoming_tolkien.md)
 - [Bravisha_Skietano](Bravisha_Skietano.md)
 - [Celeblessil](Celeblessil.md)
@@ -51,8 +52,8 @@
 | Recidivate, Part 2: Recidivate the Necromancer | 3 | Celeblessil, Hed_M, d34dimm0rt4l |
 | Recidivate, Part 3: Recidivate Transformed | 1 | becoming_tolkien |
 | Vice, Part 1: Free Yourself of the Dragon's Influence | 7 | Bravisha_Skietano, Celeblessil, Umbra_Star, becoming_tolkien, dainty_moose, supervxn, ybbm |
-| Vice, Part 2: Find the Lair of the Wyrm | 3 | Hed_M, RexRD, WolfenEmi |
-| Vice, Part 3: Vice Awakens | 1 | d34dimm0rt4l |
+| Vice, Part 2: Find the Lair of the Wyrm | 2 | Hed_M, WolfenEmi |
+| Vice, Part 3: Vice Awakens | 2 | RexRD, d34dimm0rt4l |
 
 # Masterclasser Quests
 

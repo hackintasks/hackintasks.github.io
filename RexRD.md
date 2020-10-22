@@ -20,7 +20,7 @@ Quanity: 1
 
 Quanity: 1
 
-### Vice, Part 2: Find the Lair of the Wyrm
+### Vice, Part 3: Vice Awakens
 
 Quanity: 1
 
