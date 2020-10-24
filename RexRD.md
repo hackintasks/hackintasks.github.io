@@ -20,10 +20,6 @@ Quanity: 1
 
 Quanity: 1
 
-### Vice, Part 3: Vice Awakens
-
-Quanity: 1
-
 # Masterclasser Quests
 # Hatching Potion Quests
 # World Quests
