@@ -37,6 +37,14 @@ Quanity: 1
 Quanity: 1
 
 # Masterclasser Quests
+### Dilatory Distress, Part 1: Message in a Bottle
+
+Quanity: 1
+
+### Terror in the Taskwoods, Part 1: The Blaze in the Taskwoods
+
+Quanity: 1
+
 # Hatching Potion Quests
 # World Quests
 # Hourglass Quests
