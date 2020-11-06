@@ -22,15 +22,21 @@
 | Such a Cheetah | 1 | supervxn |
 | The Dilatory Derby | 1 | supervxn |
 | The Spirit of Spring | 1 | WolfenEmi |
+| The Fiery Gryphon | 1 | dainty_moose |
 | The Guinea Pig Gang | 1 | supervxn |
 | The Kraken of Inkomplete | 1 | Hed_M |
 | Monstrous Mandrill and the Mischief Monkeys | 1 | supervxn |
 | The Call of Octothulu | 1 | Hed_M |
 | The Night-Owl | 1 | WolfenEmi |
+| The Fowl Frost | 1 | dainty_moose |
+| The Pterror-dactyl | 1 | dainty_moose |
 | The Rat King | 1 | becoming_tolkien |
 | The Jelly Regent | 1 | Hed_M |
 | The Serpent of Distraction | 1 | dainty_moose |
 | The Icy Arachnid | 1 | dainty_moose |
+| The Tangle Tree | 1 | dainty_moose |
+| King of the Dinosaurs | 1 | dainty_moose |
+| Convincing the Unicorn Queen | 1 | dainty_moose |
 
 # Unlockable Quests
 
@@ -46,7 +52,7 @@
 | Lunar Battle, Part 1: Find the Mysterious Shards | 4 | Bravisha_Skietano, Hed_M, dainty_moose, ybbm |
 | Lunar Battle, Part 2: Stop the Overshadowing Stress | 6 | Bravisha_Skietano, RexRD, WolfenEmi, forestwood6, supervxn, ybbm |
 | Lunar Battle, Part 3: The Monstrous Moon | 6 | Bravisha_Skietano, RexRD, WolfenEmi, forestwood6, supervxn, ybbm |
-| Recidivate, Part 1: The Moonstone Chain | 4 | Bravisha_Skietano, RexRD, WolfenEmi, supervxn |
+| Recidivate, Part 1: The Moonstone Chain | 3 | Bravisha_Skietano, WolfenEmi, supervxn |
 | Recidivate, Part 2: Recidivate the Necromancer | 3 | Celeblessil, Hed_M, d34dimm0rt4l |
 | Recidivate, Part 3: Recidivate Transformed | 1 | becoming_tolkien |
 | Vice, Part 1: Free Yourself of the Dragon's Influence | 6 | Bravisha_Skietano, Celeblessil, becoming_tolkien, dainty_moose, supervxn, ybbm |
@@ -56,7 +62,7 @@
 # Masterclasser Quests
 
 | Quest Name | Quantity | Owners |
-| Dilatory Distress, Part 1: Message in a Bottle | 7 | Bravisha_Skietano, Celeblessil, Hed_M, WolfenEmi, becoming_tolkien, dainty_moose |
+| Dilatory Distress, Part 1: Message in a Bottle | 6 | Bravisha_Skietano, Celeblessil, WolfenEmi, becoming_tolkien, dainty_moose |
 | Dilatory Distress, Part 2: Creatures of the Crevasse | 1 | Hed_M |
 | Dilatory Distress, Part 3: Not a Mere Maid | 1 | Bravisha_Skietano |
 | Mayhem in Mistiflying, Part 2: In Which the Wind Worsens | 1 | Hed_M |

@@ -33,10 +33,6 @@ Quanity: 1
 Quanity: 1
 
 # Masterclasser Quests
-### Dilatory Distress, Part 1: Message in a Bottle
-
-Quanity: 1
-
 ### Dilatory Distress, Part 2: Creatures of the Crevasse
 
 Quanity: 1

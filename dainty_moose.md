@@ -3,11 +3,35 @@
 
 Quanity: 1
 
+### The Fiery Gryphon
+
+Quanity: 1
+
+### The Fowl Frost
+
+Quanity: 1
+
+### The Pterror-dactyl
+
+Quanity: 1
+
 ### The Serpent of Distraction
 
 Quanity: 1
 
 ### The Icy Arachnid
+
+Quanity: 1
+
+### The Tangle Tree
+
+Quanity: 1
+
+### King of the Dinosaurs
+
+Quanity: 1
+
+### Convincing the Unicorn Queen
 
 Quanity: 1
 

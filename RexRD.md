@@ -16,10 +16,6 @@ Quanity: 1
 
 Quanity: 1
 
-### Recidivate, Part 1: The Moonstone Chain
-
-Quanity: 1
-
 # Masterclasser Quests
 # Hatching Potion Quests
 # World Quests
