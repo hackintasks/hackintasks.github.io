@@ -56,6 +56,10 @@ Quanity: 1
 
 Quanity: 1
 
+### Recidivate, Part 1: The Moonstone Chain
+
+Quanity: 1
+
 ### Vice, Part 1: Free Yourself of the Dragon's Influence
 
 Quanity: 1

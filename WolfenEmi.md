@@ -11,7 +11,31 @@ Quanity: 1
 
 Quanity: 1
 
+### The Guinea Pig Gang
+
+Quanity: 1
+
+### The Kraken of Inkomplete
+
+Quanity: 1
+
 ### The Night-Owl
+
+Quanity: 1
+
+### The Rat King
+
+Quanity: 1
+
+### The Jelly Regent
+
+Quanity: 1
+
+### The Icy Arachnid
+
+Quanity: 1
+
+### A Tangled Yarn
 
 Quanity: 1
 

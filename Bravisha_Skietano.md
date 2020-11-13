@@ -6,7 +6,7 @@ Quanity: 1
 
 ### The Basi-List
 
-Quanity: 21
+Quanity: 20
 
 ### The Feral Dust Bunnies
 

@@ -50,5 +50,13 @@ Quanity: 1
 Quanity: 1
 
 # Hatching Potion Quests
+### Ruby Rapport
+
+Quanity: 1
+
+### The Silver Solution
+
+Quanity: 1
+
 # World Quests
 # Hourglass Quests
