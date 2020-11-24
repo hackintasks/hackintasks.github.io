@@ -1,13 +1,14 @@
 ---
-title: "Hatching Potion Quests"
+title: "Hatching Potion"
 bg: turquoise
 color: white
-fa-icon: hat-wizard
+fa-icon: magic
 ---
 
 # Hatching Potion Quests
 
 | Quest Name | Quantity | Owners |
+|:--- |:---:| ---:|
 | The Amber Alliance | 1 | WolfenEmi |
 | A Bright Fluorite Fright | 1 | WolfenEmi |
 | Ruby Rapport | 1 | Hed_M |

@@ -1,5 +1,5 @@
 ---
-title: "Pet Quests"
+title: "Pet"
 bg: blue
 color: white
 fa-icon: paw
@@ -8,6 +8,7 @@ fa-icon: paw
 # Pet Quests
 
 | Quest Name | Quantity | Owners |
+|:--- |:---:| ---:|
 | The Indulgent Armadillo | 1 | dainty_moose |
 | The Magical Axolotl | 1 | Hed_M |
 | Stop Badgering Me! | 1 | WolfenEmi |

@@ -1,5 +1,5 @@
 ---
-title: "Masterclasser Quests"
+title: "Masterclasser"
 bg: green
 color: white
 fa-icon: check-square-o
@@ -8,6 +8,7 @@ fa-icon: check-square-o
 # Masterclasser Quests
 
 | Quest Name | Quantity | Owners |
+|:--- |:---:| ---:|
 | Dilatory Distress, Part 1: Message in a Bottle | 6 | Bravisha_Skietano, Celeblessil, WolfenEmi, becoming_tolkien, dainty_moose |
 | Dilatory Distress, Part 2: Creatures of the Crevasse | 1 | Hed_M |
 | Dilatory Distress, Part 3: Not a Mere Maid | 1 | Bravisha_Skietano |

@@ -1,5 +1,5 @@
 ---
-title: "World Quests"
+title: "World"
 bg: green
 color: white
 fa-icon: globe
@@ -8,3 +8,4 @@ fa-icon: globe
 # World Quests
 
 | Quest Name | Quantity | Owners |
+|:--- |:---:| ---:|
