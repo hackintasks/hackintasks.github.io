@@ -3,6 +3,7 @@ title: "Survey"
 bg: purple
 color: white
 fa-icon: poll
+style: center
 ---
 
 # Quest Roster
