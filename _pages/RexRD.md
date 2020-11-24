@@ -1,3 +1,7 @@
+---
+title: "RexRD"
+---
+
 # Pet Quests
 # Unlockable Quests
 ### Attack of the Mundane, Part 3: The Laundromancer

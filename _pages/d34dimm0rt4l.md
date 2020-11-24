@@ -1,3 +1,7 @@
+---
+title: "d34dimm0rt4l"
+---
+
 # Pet Quests
 # Unlockable Quests
 ### The Golden Knight, Part 3: The Iron Knight

@@ -1,3 +1,7 @@
+---
+title: "ybbm"
+---
+
 # Pet Quests
 # Unlockable Quests
 ### Attack of the Mundane, Part 1: Dish Disaster!

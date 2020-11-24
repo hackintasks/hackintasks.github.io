@@ -1,3 +1,7 @@
+---
+title: "Celeblessil"
+---
+
 # Pet Quests
 # Unlockable Quests
 ### Attack of the Mundane, Part 2: The SnackLess Monster
