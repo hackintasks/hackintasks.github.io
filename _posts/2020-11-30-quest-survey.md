@@ -1,5 +1,5 @@
 ---
-title: "Quest Survey"
+title: "Survey"
 bg: purple
 color: white
 fa-icon: poll

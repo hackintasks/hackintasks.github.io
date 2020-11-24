@@ -1,5 +1,5 @@
 ---
-title: "Unlockable Quests"
+title: "Unlockable"
 bg: orange
 color: white
 fa-icon: unlock-alt
@@ -8,6 +8,7 @@ fa-icon: unlock-alt
 # Unlockable Quests
 
 | Quest Name | Quantity | Owners |
+|:--- |:---:| ---:|
 | Attack of the Mundane, Part 1: Dish Disaster! | 4 | Bravisha_Skietano, WolfenEmi, forestwood6, ybbm |
 | Attack of the Mundane, Part 2: The SnackLess Monster | 2 | Celeblessil, supervxn |
 | Attack of the Mundane, Part 3: The Laundromancer | 2 | RexRD, dainty_moose |
