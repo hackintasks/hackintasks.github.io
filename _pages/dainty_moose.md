@@ -1,3 +1,7 @@
+---
+title: "dainty_moose"
+---
+
 # Pet Quests
 ### The Indulgent Armadillo
 
