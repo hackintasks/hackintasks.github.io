@@ -1,5 +1,6 @@
 ---
 title: "Celeblessil"
+permalink: /Celeblessil
 ---
 
 # Pet Quests

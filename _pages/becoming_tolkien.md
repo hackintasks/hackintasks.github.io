@@ -1,5 +1,6 @@
 ---
 title: "becoming_tolkien"
+permalink: /becoming_tolkien
 ---
 
 # Pet Quests

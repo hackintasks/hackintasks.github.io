@@ -1,11 +1,6 @@
 ---
-title: "Pet"
-bg: blue
-color: white
-fa-icon: paw
+title: "Pet Quests"
 ---
-
-# Pet Quests
 
 | Quest Name | Quantity | Owners |
 |:--- |:---:| ---:|

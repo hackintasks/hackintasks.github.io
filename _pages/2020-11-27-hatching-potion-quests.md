@@ -1,11 +1,6 @@
 ---
-title: "Hatching Potion"
-bg: turquoise
-color: white
-fa-icon: magic
+title: "Hatching Potion Quests"
 ---
-
-# Hatching Potion Quests
 
 | Quest Name | Quantity | Owners |
 |:--- |:---:| ---:|

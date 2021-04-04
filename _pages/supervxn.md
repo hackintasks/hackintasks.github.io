@@ -1,5 +1,6 @@
 ---
 title: "supervxn"
+permalink: /supervxn
 ---
 
 # Pet Quests

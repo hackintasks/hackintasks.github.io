@@ -1,39 +1,33 @@
----
+title: "Hackin' Tasks Together"
+description: ""
+baseurl: "/"
+url: "https://hackintasks.github.io"
 
-port: 4000
-host: 0.0.0.0
-safe: false
+logo: nes-kirby
+show_downloads: false
 
+paginate: 10
 
-### site serving configuration ###
-exclude: [README.md, .gitignore]
-include: [_pages]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
+remote_theme: julianolf/jekyll-theme-8bit
+permalink: /:title
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
 markdown: kramdown
 
+exclude: 
+  - README.md
+  - .gitignore
 
-### content configuration ###
-title:       "Hackin' Tasks Together"
-keywords:    "SinglePaged, jekyll, template, github, Habitica, party, single page"
-description: ""
-source_link: "https://github.com/hackintasks/hackintasks.github.io"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-#google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-
-
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-
-kramdown:
-  auto_ids:  false
-
+include: [_pages]

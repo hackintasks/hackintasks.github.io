@@ -1,5 +1,6 @@
 ---
 title: "dainty_moose"
+permalink: /dainty_moose
 ---
 
 # Pet Quests

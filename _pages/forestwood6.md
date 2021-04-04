@@ -1,5 +1,6 @@
 ---
 title: "forestwood6"
+permalink: /forestwood6
 ---
 
 # Pet Quests

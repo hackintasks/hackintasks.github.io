@@ -1,11 +1,6 @@
 ---
-title: "Masterclasser"
-bg: green
-color: white
-fa-icon: check-square-o
+title: "Masterclasser Quests"
 ---
-
-# Masterclasser Quests
 
 | Quest Name | Quantity | Owners |
 |:--- |:---:| ---:|

@@ -1,11 +1,6 @@
 ---
-title: "Unlockable"
-bg: orange
-color: white
-fa-icon: unlock-alt
+title: "Unlockable Quests"
 ---
-
-# Unlockable Quests
 
 | Quest Name | Quantity | Owners |
 |:--- |:---:| ---:|

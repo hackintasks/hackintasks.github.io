@@ -1,5 +1,6 @@
 ---
 title: "RexRD"
+permalink: /RexRD
 ---
 
 # Pet Quests
