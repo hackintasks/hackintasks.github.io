@@ -1,27 +1,5 @@
 ---
-title: "Results"
-bg: purple
-color: white
-fa-icon: chart-bar
+title: "Survey Results"
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAqyobPb7CbAlTA2dfGJzjgNu6gx1zoK8uHfAWs2I2O7hC781HjS9atFOyPQamzKcmBv-shwi2bQXP/pubchart?oid=1939324506&amp;format=interactive" width="100%" border="2px solid #ccc" id="myIframe1"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAqyobPb7CbAlTA2dfGJzjgNu6gx1zoK8uHfAWs2I2O7hC781HjS9atFOyPQamzKcmBv-shwi2bQXP/pubchart?oid=1061327120&amp;format=interactive" width="100%" border="2px solid #ccc" id="myIframe2"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAqyobPb7CbAlTA2dfGJzjgNu6gx1zoK8uHfAWs2I2O7hC781HjS9atFOyPQamzKcmBv-shwi2bQXP/pubchart?oid=1006335906&amp;format=interactive" width="100%" border="2px solid #ccc" id="myIframe3"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAqyobPb7CbAlTA2dfGJzjgNu6gx1zoK8uHfAWs2I2O7hC781HjS9atFOyPQamzKcmBv-shwi2bQXP/pubchart?oid=1626519209&amp;format=interactive" width="100%" border="2px solid #ccc" id="myIframe4"></iframe>
-
-<script>
-  // Selecting the iframe element
-  var iframe = document.getElementById("myIframe1");
-  var iframe = document.getElementById("myIframe2");
-  var iframe = document.getElementById("myIframe3");
-  var iframe = document.getElementById("myIframe4");
-  
-  // Adjusting the iframe height onload event
-  iframe.onload = function(){
-      iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-  }
-</script>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/AnalysisPage.aspx?id=jiH4ugKzZUSpk0o5yXJRsghjUqPv4EpHgMzulq-QedBUM043MzlOUEwyTUI5WjlRTEROTkJGOVBCSS4u&AnalyzerToken=5Tc8TXSmydAtTjBPIWpm9LRVX2gLAelN" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen>Loading...</iframe>

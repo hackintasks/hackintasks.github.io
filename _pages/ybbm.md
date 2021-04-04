@@ -1,5 +1,6 @@
 ---
 title: "ybbm"
+permalink: /ybbm
 ---
 
 # Pet Quests

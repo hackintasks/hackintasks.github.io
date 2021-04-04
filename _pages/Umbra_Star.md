@@ -1,5 +1,6 @@
 ---
 title: "Umbra_Star"
+permalink: /Umbra_Star
 ---
 
 # Pet Quests

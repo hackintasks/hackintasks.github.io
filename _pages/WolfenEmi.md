@@ -1,5 +1,6 @@
 ---
 title: "WolfenEmi"
+permalink: /WolfenEmi
 ---
 
 # Pet Quests

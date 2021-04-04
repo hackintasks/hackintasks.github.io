@@ -1,5 +1,6 @@
 ---
 title: "d34dimm0rt4l"
+permalink: /d34dimm0rt4l
 ---
 
 # Pet Quests

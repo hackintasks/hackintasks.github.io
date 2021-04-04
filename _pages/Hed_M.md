@@ -1,5 +1,6 @@
 ---
 title: "Hed_M"
+permalink: /Hed_M
 ---
 
 # Pet Quests
